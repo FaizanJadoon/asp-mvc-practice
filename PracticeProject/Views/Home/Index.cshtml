@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<br />
+@Html.ActionLink("Add New","Add")
+<table style="border:solid">
+    <tr>
+        <th>ID</th>
+        <th>&nbsp;&nbsp;</th>
+        <th>Name</th>
+        <th>&nbsp;&nbsp;</th>
+        <th>Address</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var item in ViewBag.m)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>&nbsp;&nbsp;</td>
+            <td>@item.name</td>
+            <td>&nbsp;&nbsp;</td>
+            <td>@item.address</td>
+            <td>&nbsp;&nbsp;</td>
+            <td>@Html.ActionLink("Edit", "Edit", new { id = item.id }) |</td>
+            <td>@Html.ActionLink("Details", "Details", new { id = item.id }) |</td>
+            <td>@Html.ActionLink("Delete", "Delete", new { id = item.id })</td>
+        </tr>
+        
+    }
+</table>

@@ -1,0 +1,41 @@
+﻿@model PracticeProject.my_table
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+<br />
+<p>
+    Are you want to delete it permanently?<span class="glyphicon-remove"></span>
+</p>
+@using (Html.BeginForm())
+{
+    <table style="border:solid">
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.id)</td>
+            <td>&nbsp;</td>
+            <td>@Html.DisplayFor(model => model.id)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.name)</td>
+            <td>&nbsp;</td>
+            <td>@Html.DisplayFor(model => model.name)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.address)</td>
+            <td>&nbsp;</td>
+            <td>@Html.DisplayFor(model => model.address)</td>
+        </tr>
+        <tr>
+            <td>
+                @Html.TextBox("Delete", "Delete", new { type="submit"})
+            </td>
+            <td>&nbsp;</td>
+            <td>
+                @Html.ActionLink("Back To List", "Index")
+            </td>
+        </tr>
+    </table>
+
+
+}

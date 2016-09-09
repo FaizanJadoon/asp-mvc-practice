@@ -1,0 +1,40 @@
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\PracticeProject.dll.config
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\PracticeProject.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\PracticeProject.pdb
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Helpers.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Mvc.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Razor.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Webpages.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Razor.xml
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Webpages.xml
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Helpers.xml
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\System.Web.Mvc.xml
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\obj\Debug\PracticeProject.csprojResolveAssemblyReference.cache
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\obj\Debug\PracticeProject.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\obj\Debug\PracticeProject.pdb
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\EntityFramework.dll
+C:\Users\faizan\Documents\Visual Studio 2013\Projects\PracticeProject\PracticeProject\bin\EntityFramework.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\PracticeProject.dll.config
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\PracticeProject.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\PracticeProject.pdb
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\EntityFramework.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Helpers.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Mvc.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Razor.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Webpages.Deployment.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Webpages.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Webpages.Razor.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\EntityFramework.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Razor.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Webpages.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Webpages.Deployment.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Webpages.Razor.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Helpers.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\bin\System.Web.Mvc.xml
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\obj\Debug\PracticeProject.csprojResolveAssemblyReference.cache
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\obj\Debug\PracticeProject.dll
+D:\projects\mvc\PROJECT\PracticeProject\PracticeProject\obj\Debug\PracticeProject.pdb

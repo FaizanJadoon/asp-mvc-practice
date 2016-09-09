@@ -1,0 +1,26 @@
+﻿@model PracticeProject.my_table
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td><strong>@Html.LabelFor(model => model.name)</strong></td>
+            <td>@Html.EditorFor(model => model.name)</td>
+        </tr>
+        <tr>
+            <td><strong>@Html.LabelFor(model => model.address)</strong></td>
+            <td>@Html.EditorFor(model => model.address)</td>
+        </tr>
+    </table>
+    <div>
+        <p>
+            @Html.TextBox("Add", "Add", new { type = "submit" })
+        </p>
+    </div>
+}
+<div>@Html.ActionLink("Back To List", "Index")</div>

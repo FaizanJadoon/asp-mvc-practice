@@ -1,0 +1,28 @@
+﻿@model PracticeProject.my_table
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+<br />
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>@Html.LabelFor(model=>model.name)</td>
+            <td>@Html.EditorFor(model=>model.name)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model=>model.address)</td>
+            <td>@Html.EditorFor(model=>model.address)</td>
+        </tr>
+        <tr>
+            <td>
+                @Html.TextBox("Edit", "Edit", new { type = "submit" })
+            </td>
+            <td>
+                @Html.ActionLink("Back To List","Index")
+            </td>
+        </tr>
+    </table>
+}
